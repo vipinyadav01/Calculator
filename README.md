@@ -22,9 +22,9 @@ Copy code
 cd Calculator
 Run the application:
 Copy code
- HTML, CSS & JAVASCRIPTcalculator.py
+ HTML, CSS & JAVASCRIPTcalculator 
 Usage
-To use the calculator, simply run the calculator.py script. You will be prompted to enter two numbers and select an operation from the menu.
+To use the calculator, simply run the calculator  script. You will be prompted to enter two numbers and select an operation from the menu.
 
 Example
 yaml
