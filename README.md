@@ -53,5 +53,5 @@ Credits
 This calculator application was developed by vipin yadav.
 
 Contact
-For any inquiries or feedback, please contactvipinyadav9m@gmail.com.
+For any inquiries or feedback, please contact-- vipinyadav9m@gmail.com.
 
